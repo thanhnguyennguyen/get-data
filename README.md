@@ -1,15 +1,15 @@
-# get-data
+# fetch-json-data
 Node library for getting JSON document
 
 ## Install
 ```
-npm install --save get-data
+npm install --save fetch-json-data
 ```
 
 ## Usage
 
 ```nodejs
-const getData=require('get-data')
+const getData=require('fetch-json-data')
 
 
 // promise
