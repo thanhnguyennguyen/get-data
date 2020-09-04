@@ -1,0 +1,26 @@
+{
+  "name": "get-data",
+  "version": "1.0.0",
+  "description": "Node library for getting JSON document",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thanhnguyennguyen/get-data.git"
+  },
+  "keywords": [
+    "json",
+    "data"
+  ],
+  "author": "NguyenNguyen (nguyenbk92@gmail.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thanhnguyennguyen/get-data/issues"
+  },
+  "homepage": "https://github.com/thanhnguyennguyen/get-data#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
