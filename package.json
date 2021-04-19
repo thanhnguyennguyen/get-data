@@ -1,6 +1,6 @@
 {
   "name": "fetch-json-data",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Node library for getting JSON document",
   "main": "index.js",
   "scripts": {

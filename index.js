@@ -7,6 +7,7 @@ function getData(url, method = '', data = {}, timeout = 2000) {
         timeout: timeout,
         headers: {
             'Content-Type': 'application/json',
+		'Access-Control-Allow-Origin': '*',
         }
     }
     if (Object.keys(data).length > 0) {
